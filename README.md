@@ -40,29 +40,6 @@ Counter: 7
 Counter: 8
 Counter: 9
 Counter: 10
-Counter: 11
-Counter: 12
-Counter: 13
-Counter: 14
-Counter: 15
-Counter: 16
-Counter: 17
-Counter: 18
-Counter: 19
-Counter: 20
-Counter: 21
-Counter: 22
-Counter: 23
-Counter: 24
-Counter: 25
-Counter: 26
-Counter: 27
-Counter: 28
-Counter: 29
-Counter: 30
-Counter: 31
-Counter: 32
-Counter: 33
 ....
 ```
 
